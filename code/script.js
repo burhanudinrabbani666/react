@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div>
       <h1>{advice}</h1>
-      <button onClick={getAdvice}>Get Advice</button>
+      <button onClick={setAdvice}>Get Advice</button>
       <Message count={count} />
     </div>
   );
