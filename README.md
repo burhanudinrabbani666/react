@@ -1,3 +1,5 @@
+![React banner](/public/react.svg)
+
 # REACT ⚛️
 
 A repository for my journey in learning the JavaScript framework: **React**. I understand that mastering this framework is one of the standards for becoming a web developer. I will continue to update my journey and learnings daily, no matter how long it lasts. I hope to master this in the shortest possible time.
