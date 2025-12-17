@@ -1,6 +1,6 @@
 ![React banner](/public/react.svg)
 
-# Journal Mastering React
+# Journal Mastering React - Modern JavaScript Library
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -39,16 +39,16 @@ Learning material sources:
 
 #### Fundamental React
 
-| Section | Topic                                           | Status |
-| ------- | ----------------------------------------------- | ------ |
-| 1       | [Welcome]()                                     | ✅     |
-| 2       | [React Fundamental]()                           | ✅     |
-| 3       | [A First Look Of React]()                       | ✅     |
-| 4       | [Essential JavaScript]()                        | ✅     |
-| 5       | [Working With Components, Props, and JSX]()     | ✍️     |
-| 6       | [State, Event, Forms: Interactive Components]() | ⏳     |
-| 7       | [Thinking In React: State Management]()         | ⏳     |
-| 8       | [Practice Project: Eat-N-Split]()               | ⏳     |
+| Section | Topic                                                                                                    | Status |
+| ------- | -------------------------------------------------------------------------------------------------------- | ------ |
+| 1       | Welcome                                                                                                  | ✅     |
+| 2       | React Fundamental                                                                                        | ✅     |
+| 3       | A First Look Of React                                                                                    | ✅     |
+| 4       | [Essential JavaScript](https://github.com/burhanudinrabbani666/java-script)                              | ✅     |
+| 5       | [Working With Components, Props, and JSX](https://github.com/burhanudinrabbani666/react-steps)           | ✍️     |
+| 6       | [State, Event, Forms: Interactive Components](https://github.com/burhanudinrabbani666/react-travel-list) | ⏳     |
+| 7       | [Thinking In React: State Management](https://github.com/burhanudinrabbani666/react-travel-list)         | ⏳     |
+| 8       | [Practice Project: Eat-N-Split](https://github.com/burhanudinrabbani666/react-eat-n-split)               | ⏳     |
 
 ## Thanks
 
